@@ -1,6 +1,6 @@
 # firebase_crud
 
-A new Flutter project.
+Um projeto utilizando Flutter e Firebase para a fim de criar um CRUD. Desenvolvido durante uma aula de Desenvolvimento de Dispositivos Móveis.
 
 ## Getting Started
 
